@@ -1,8 +1,7 @@
 /*Alonso Canales Padiila
 Practica 18
 Menu de conversiones de valores de medida
-Ejercicios de selectiva miltiple(switch)*/
-
+Ejercicios de selectiva multiple (switch)*/
 #include <stdio.h>
 #include <stdlib.h>
 
